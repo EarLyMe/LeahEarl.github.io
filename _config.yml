@@ -1,0 +1,21 @@
+# Site settings
+title: Progressive Penchant
+header-img: img/home-bg.png
+email: earlleah@gmail.com
+copyright_name: LeahEarl
+description: > # this means to ignore newlines until "baseurl:"
+  The slow progress of a person with a penchant for programming
+baseurl: "" # the subpath of your site, e.g. /blog
+twitter_username: 
+github_username:  LeahEarl
+learn_profile: LeahEarl
+email_username: earlleah@gmail.com
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]
