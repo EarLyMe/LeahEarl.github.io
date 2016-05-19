@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Slaying the Empty Screen"
-date:   2016-05-19 21:01:08 +0000
+date:   2016-05-19 17:01:08 -0400
 ---
 
 ![Empty Screen Dragon](http://i.imgur.com/KqCdXyI.jpg?1)
@@ -10,9 +10,9 @@ The absolute most difficult part of the CLI Data Gem Project was getting started
 
 Watching the walkthrough gave me a place to start working on my code. I had all of the pieces of the puzzle sitting right in front of me, I knew about objects in Ruby, I knew how to scrape a website, and I even knew exactly which website I’d like the information to come from (I had decided to make a CLI that let the user find upcoming dance events, which is something I need in my other life). I just didn’t know how to piece all of these things together into a gem. Oh yeah, and the gem was something that I didn’t really know about either. Watching the walkthrough gave me an idea of where to look for this information. I used:
 
-[How to Write a Command Line Ruby Gem](http://robdodson.me/how-to-write-a-command-line-ruby-gem/)
-[Make Your Own Gem Guide on RubyGems](http://guides.rubygems.org/make-your-own-gem/)
-[Build and Release a Commandline Gem](http://blog.excelwithcode.com/option-parser-in-cli-apps.html)
+* [How to Write a Command Line Ruby Gem](http://robdodson.me/how-to-write-a-command-line-ruby-gem/)
+* [Make Your Own Gem Guide on RubyGems](http://guides.rubygems.org/make-your-own-gem/)
+* [Build and Release a Commandline Gem](http://blog.excelwithcode.com/option-parser-in-cli-apps.html)
 
 Honestly, it took about 10 different websites total to find the majority of my answers but mostly it happened in those right up there.
 
