@@ -4,10 +4,9 @@ title:  "The Salty-Sweet Type"
 date:   2016-05-16 17:19:32 -0400
 ---
 
+![Chocolate Covered Pretzels](http://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/26/85/54/picm9rcDt.jpg)
 
 Why did I decide that I wanted to learn about software development? The short answer is because chocolate covered pretzels are one of my most favorite things.
-
-![Chocolate Covered Pretzels](http://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/26/85/54/picm9rcDt.jpg)
 
 If you'd like to know the extra-long version, it starts with me being bored in middle school. I was sitting at my desk in English class while my teacher was going over sentence structure. I had "The Fellowship of the Ring" propped up inside my English textbook and was completely absorbed because I was reading the bit where Frodo first encounters the Nazgul and ... Ok, I'll spare you ALL the details but it mostly has to do with the type of person I am: I am a contrary person. I am a person who appreciates the logic of science and yet also enjoys the vagaries of English, a person who always resented the rigid regimen of math but exceled in the exacting details of drafting and design. If I get a shake from McDonald's I really need to buy French fries to go along with it so I can sip a bit of the shake and then immediately eat a bite of fry. All the contrariness gets smashed and mixed up inside me to make a big 'ol wonderful and paradoxical stew of personality. You get the picture, right? I'm the salty AND sweet at the same time type of person. And now all this talk of stews and shakes has made me horribly hungry.
 
