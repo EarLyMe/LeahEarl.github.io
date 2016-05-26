@@ -12,7 +12,7 @@ Watching the walkthrough gave me a place to start working on my code. I had all 
 
 * [How to Write a Command Line Ruby Gem](http://robdodson.me/how-to-write-a-command-line-ruby-gem/)
 * [Make Your Own Gem Guide on RubyGems](http://guides.rubygems.org/make-your-own-gem/)
-* [Build and Release a Commandline Gem](http://blog.excelwithcode.com/option-parser-in-cli-apps.html)
+* [[Engineering Lunch Series] Step-by-Step Guide to Building Your First Ruby Gem](https://quickleft.com/blog/engineering-lunch-series-step-by-step-guide-to-building-your-first-ruby-gem/)
 
 Honestly, it took about 10 different websites total to find the majority of my answers but mostly it happened in those right up there.
 
